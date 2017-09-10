@@ -1,7 +1,7 @@
 # ENSP 200, Class 3, Human Population
 
 ## New Yorker Cartoon
-![](../figures/Im-afraid-you-have-humans.jpg)
+![](./figures/Im-afraid-you-have-humans.jpg)
 
 ## Learning Objectives
 - Understand the factors that affect human population
@@ -11,7 +11,7 @@
 - What tools do we have to change our population growth?
 
 ## World Population Growth
-![](../figures/world-population.pdf)
+![](./figures/world-population.pdf)
 
 ## World Population Growth
 
@@ -26,7 +26,7 @@
 | 7 billion  | 2011             |
 
 ## Population model
-![](../figures/population-bathtub-model.pdf)
+![](./figures/population-bathtub-model.pdf)
 
 
 ## Cultural carrying capacity
@@ -41,13 +41,13 @@ indefinitely.
 
 ## Age structure by country
 Can you see the effects of life expectancy and birth rates?
-![](../figures/age-structure.pdf)
+![](./figures/age-structure.pdf)
 
 ## United States Baby Boom
-![](../figures/baby-boom.pdf)
+![](./figures/baby-boom.pdf)
 
 ## United States Baby Boom
-![](../figures/baby-boom-time.pdf)
+![](./figures/baby-boom-time.pdf)
 
 ## What factors determine population growth?
 
@@ -79,5 +79,5 @@ Number of births per woman
 - Population rises and falls
 
 ## Demographic Transition
-![](../figures/demographic-transition.pdf)
+![](./figures/demographic-transition.pdf)
 
