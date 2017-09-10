@@ -1,6 +1,4 @@
 {
     "gitbook": ">=2.0.0",
-    "title": "Environmental Issues",
-    "plugins": [ "mathjax-beta" ],
-    "pluginsConfig": {}
+    "title": "Environmental Issues"
 }
