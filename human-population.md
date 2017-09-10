@@ -43,6 +43,8 @@ indefinitely.
 Can you see the effects of life expectancy and birth rates?
 ![](./figures/age-structure.pdf)
 
+![](./figures/age-structure.png)
+
 ## United States Baby Boom
 ![](./figures/baby-boom.pdf)
 
